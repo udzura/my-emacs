@@ -1,2 +1,4 @@
 my .emacs file.
 enjoy!
+do this when using:
+  ln -s ~/my-emacs/.emacs ~/
